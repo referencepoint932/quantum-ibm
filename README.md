@@ -35,6 +35,6 @@ After that the dependencies are synced and managed automatically from the `pypro
 ```bash
 uv sync
 source .venv/bin/activate
-uv run jupyter notebook 100-ibm-heron.ipynb
+uv run jupyter notebook 100-bell-to-ghz-on-ibm-heron.ipynb
 ```
 
